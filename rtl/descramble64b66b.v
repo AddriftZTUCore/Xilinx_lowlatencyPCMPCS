@@ -1,21 +1,22 @@
 /******************************************Copyright@2022**************************************
-									YUSUR CO. LTD. ALL rights reserved
-								http://www.yusur.tech, http://www.carch.ac.cn
+                                    AddiftUZT. zhanghx.  ALL rights reserved
+                                    https://www.cnblogs.com/cnlntr/
 =========================================FILE INFO.============================================
 FILE Name       : descramble64b66b.v
-Last Update     : 2023/03/25 14:34:47
+Last Update     : 2023/04/01 14:17:09
 Latest Versions : 1.0
 ========================================AUTHOR INFO.===========================================
 Created by      : zhanghx
-Create date     : 2023/03/25 14:34:47
+Create date     : 2023/04/01 14:17:09
 Version         : 1.0
-Description     : the 64b66b descramble.
+Description     : descramble64b66b.
 =======================================UPDATE HISTPRY==========================================
 Modified by     : 
 Modified date   : 
 Version         : 
 Description     : 
 *************************************Confidential. Do NOT disclose****************************/
+
 module descramble64b66b(
 	input  	wire   				clk  	,
 	input   wire   				rst_n	,

@@ -1,15 +1,15 @@
 /******************************************Copyright@2022**************************************
-                                    YUSUR CO. LTD. ALL rights reserved
-                            http://www.yusur.tech, http://www.carch.ac.cn
+                                    AddiftUZT. zhanghx.  ALL rights reserved
+                                        https://www.cnblogs.com/cnlntr/
 =========================================FILE INFO.============================================
 FILE Name       : seq_togearbox.v
-Last Update     : 2023/03/26 22:51:39
+Last Update     : 2023/04/01 14:18:57
 Latest Versions : 1.0
 ========================================AUTHOR INFO.===========================================
 Created by      : zhanghx
-Create date     : 2023/03/26 22:51:39
+Create date     : 2023/04/01 14:18:57
 Version         : 1.0
-Description     : user to gtx txport geabox.
+Description     : seq_togearbox.
 =======================================UPDATE HISTPRY==========================================
 Modified by     : 
 Modified date   : 

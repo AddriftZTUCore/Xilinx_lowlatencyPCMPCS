@@ -1,23 +1,21 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 2023/03/27 21:48:40
-// Design Name: 
-// Module Name: lowlatencypcmpcs_mod
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+/******************************************Copyright@2022**************************************
+                                    AddiftUZT. zhanghx.  ALL rights reserved
+                                        https://www.cnblogs.com/cnlntr/
+=========================================FILE INFO.============================================
+FILE Name       : lowlatencypcmpcs_mod.v
+Last Update     : 2023/04/01 14:18:16
+Latest Versions : 1.0
+========================================AUTHOR INFO.===========================================
+Created by      : zhanghx
+Create date     : 2023/04/01 14:18:16
+Version         : 1.0
+Description     : lowlatencypcmpcs_mod.
+=======================================UPDATE HISTPRY==========================================
+Modified by     : 
+Modified date   : 
+Version         : 
+Description     : 
+*************************************Confidential. Do NOT disclose****************************/
 
 
 module lowlatencypcmpcs_mod(

@@ -1,23 +1,21 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 2023/03/31 23:35:21
-// Design Name: 
-// Module Name: top
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
+/******************************************Copyright@2022**************************************
+                                    AddiftUZT. zhanghx.  ALL rights reserved
+                                        https://www.cnblogs.com/cnlntr/
+=========================================FILE INFO.============================================
+FILE Name       : top.v
+Last Update     : 2023/04/01 14:19:09
+Latest Versions : 1.0
+========================================AUTHOR INFO.===========================================
+Created by      : zhanghx
+Create date     : 2023/04/01 14:19:09
+Version         : 1.0
+Description     : top.
+=======================================UPDATE HISTPRY==========================================
+Modified by     : 
+Modified date   : 
+Version         : 
+Description     : 
+*************************************Confidential. Do NOT disclose****************************/
 
 
 module top(

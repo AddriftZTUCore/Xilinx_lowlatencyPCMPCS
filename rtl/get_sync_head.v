@@ -1,15 +1,15 @@
 /******************************************Copyright@2022**************************************
-                                YUSUR CO. LTD. ALL rights reserved
-                        http://www.yusur.tech, http://www.carch.ac.cn
+									AddiftUZT. zhanghx.  ALL rights reserved
+										https://www.cnblogs.com/cnlntr/
 =========================================FILE INFO.============================================
 FILE Name       : get_sync_head.v
-Last Update     : 2023/03/25 20:39:21
+Last Update     : 2023/04/01 14:17:51
 Latest Versions : 1.0
 ========================================AUTHOR INFO.===========================================
 Created by      : zhanghx
-Create date     : 2023/03/25 20:39:21
+Create date     : 2023/04/01 14:17:51
 Version         : 1.0
-Description     : gtx rx get sync head.
+Description     : get_sync_head.
 =======================================UPDATE HISTPRY==========================================
 Modified by     : 
 Modified date   : 
